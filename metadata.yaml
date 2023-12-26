@@ -1,0 +1,29 @@
+_repo: The-deep-space-scrolls_72311
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Young, Robert F.
+    alias: Young, Robert Franklin
+    birthdate: 1915
+    deathdate: 1986
+    gutenberg_agent_id: '25767'
+    url: http://www.gutenberg.org/2009/agents/25767
+    wikipedia: https://en.wikipedia.org/wiki/Robert_F._Young
+description: ''
+gutenberg_issued: '2023-12-04'
+identifiers:
+  gutenberg: '72311'
+language: en
+pgterms:marc905: 20231124092619young
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The deep space scrolls
+url: http://www.gutenberg.org/ebooks/72311
